@@ -1,1 +1,1 @@
-# GeneratorRC
+# Jednoduchý generátor rodných čísel
